@@ -1,0 +1,25 @@
+name: 20210614_escape_scikit-hep_handson
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python>=3.7, <3.10
+  # Setting recent versions to make the conda solve faster
+  - numpy>=1.16
+  - pandas>=0.24
+  - attrs>=19.0
+  - six>=1.11
+  - pip>19.0
+  - jupyterlab>=0.35
+  - tabulate
+  - pydot>=1.3.0
+  - tensorflow
+  - tensorflow-probability
+  - scikit-hep>3.1,<3.3
+  - pip:
+    - build
+    - plumbum>=1.6.6
+    - graphviz
+    - RISE
+   - zfit>0.6,<0.8
+   - phasespace>1.0,<1.4
