@@ -9,17 +9,13 @@ https://nbviewer.jupyter.org/github/eduardo-rodrigues/2021-06-14_ESCAPESummerSch
 
 ---
 
-<b><span style="color:blue">
-This event is organized in the framework and with the support of the European Science Cluster of Astronomy &amp; Particle physics
-ESFRI research infrastructures (ESCAPE), funded by the European Union's Horizon 2020 - Grant N. 824064.</span></b>
-
-
 <table>
 <tr>
     <td>
     <b><span style="color:blue">
-    This event is organized in the framework and with the support of the European Science Cluster of Astronomy &amp; Particle physics
-    ESFRI research infrastructures (ESCAPE), funded by the European Union's Horizon 2020 - Grant N. 824064.
+    The School is organized in the framework and with the support of the European Science Cluster of Astronomy
+    &amp; Particle physics ESFRI research infrastructures (ESCAPE),
+    funded by the European Union's Horizon 2020 - Grant N. 824064.
     </span></b>
     </td>
 </tr>
