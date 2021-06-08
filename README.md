@@ -5,17 +5,28 @@ Lecture **"Introduction to the Scikit-HEP Big Data Python ecosystem for HEP"** f
 held as a virtual event on 7-18 June 2021.
 
 A nice rendering of the notebooks can be obtained with nbviewer at
-https://nbviewer.jupyter.org/github/eduardo-rodrigues/2021-06-14_ESCAPE_school/tree/master/.
+https://nbviewer.jupyter.org/github/eduardo-rodrigues/2021-06-14_ESCAPESummerSchool/tree/master/.
 
 ---
 
-<center>
 <b><span style="color:blue">
 This event is organized in the framework and with the support of the European Science Cluster of Astronomy &amp; Particle physics
-ESFRI research infrastructures (ESCAPE),<br>funded by the European Union's Horizon 2020 - Grant N. 824064.</span></b>
+ESFRI research infrastructures (ESCAPE), funded by the European Union's Horizon 2020 - Grant N. 824064.</span></b>
 
-<img src="images/logo_Escape.png" width="15%"><img src="images/logo_flag-of-europe.webp" width="15%">
-</center>
+
+<table>
+<tr>
+    <td>
+    <b><span style="color:blue">
+    This event is organized in the framework and with the support of the European Science Cluster of Astronomy &amp; Particle physics
+    ESFRI research infrastructures (ESCAPE), funded by the European Union's Horizon 2020 - Grant N. 824064.
+    </span></b>
+    </td>
+</tr>
+<tr>
+    <td align="center"><img src="images/logo_Escape.png" width="15%"><img src="images/logo_flag-of-europe.webp" width="15%"></td>
+</tr>
+</table>
 
 ---
 
@@ -43,7 +54,7 @@ for the notebooks to be up and running online.)
 Just click on
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/eduardo-rodrigues/2021-06-14_ESCAPE_school/master/?urlpath=lab">
+  <a href="https://mybinder.org/v2/gh/eduardo-rodrigues/2021-06-14_ESCAPESummerSchool/master/?urlpath=lab">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="30">
   </a>
 </p>
@@ -60,6 +71,6 @@ saving for example some of the plots they produce.
 
 
 ```bash
-git clone https://github.com/eduardo-rodrigues/2021-06-14_ESCAPE_school.git
-cd 2021-06-14_ESCAPE_school
+git clone https://github.com/eduardo-rodrigues/2021-06-14_ESCAPESummerSchool.git
+cd 2021-06-14_ESCAPESummerSchool
 ```
