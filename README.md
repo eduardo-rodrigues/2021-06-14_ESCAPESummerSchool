@@ -44,8 +44,7 @@ In this lecture ample time will be provided to "play around" with the material, 
 
 One can straightforwardly run this notebook presentation on Binder,
 with no installation requirements on the user side
-(Be aware that the environment to set up is rather large and it may take 5-10 minutes
-for the notebooks to be up and running online.)
+(Be aware that the environment to set up is relatively large and it may take about 5 minutes for the notebooks to be up and running online.)
 
 Just click on
 
