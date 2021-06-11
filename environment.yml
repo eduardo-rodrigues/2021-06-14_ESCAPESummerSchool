@@ -22,4 +22,4 @@ dependencies:
     - build
     - graphviz
     - zfit>0.6,<0.8
-    - phasespace>1.0,<1.4
+    - phasespace>1.0,<1.5
