@@ -15,8 +15,6 @@ dependencies:
   - plumbum>=1.6.6
   - tabulate
   - pydot>=1.3.0
-  - tensorflow
-  - tensorflow-probability
   - scikit-hep>3.1,<3.3
   - pip:
     - build
