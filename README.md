@@ -1,6 +1,6 @@
 # ESCAPE Summer School, June 2021
 
-Lecture **"Introduction to the Scikit-HEP Big Data Python ecosystem for HEP"** for the
+Lecture **"Introduction to the Scikit-HEP Big Data Python ecosystem for analysis in Particle Physics"** for the
 [ESCAPE Summer School on Data Science for Astronomers, Astroparticle and Particle Physics](https://indico.in2p3.fr/event/20306/)
 held as a virtual event on 7-18 June 2021.
 
@@ -56,7 +56,7 @@ Just click on
 
 Anything can be altered along the way.
 
-Note that the notebook uses Python 3, though most (but not all!) packages also support Python 2 for now.
+Note that the notebooks use Python 3, though most (but not all!) packages also support Python 2 for now.
 
 
 ## Running everything on your own computer

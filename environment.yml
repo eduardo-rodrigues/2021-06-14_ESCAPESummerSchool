@@ -1,9 +1,18 @@
-name: 20210614_escape_scikit-hep_handson
+name: eschool2021_skhep
 channels:
-  - default
+  - default 
   - conda-forge
 dependencies:
   - python>=3.7, <3.10
+  - conda-build
+  - ipython
+  - jupyter
+  - jupyterlab
+  - seaborn
+  - scipy
+  - tqdm
+  - twine
+  - wheel
   # Setting recent versions to make the conda solve faster
   - numpy>=1.16
   - pandas>=0.24
